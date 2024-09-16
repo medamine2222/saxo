@@ -1,0 +1,27 @@
+{   "short_name":"Saxo bank",
+	"name": "Saxo Bank",
+	"description":"The Trading & Investment Specialist | Saxo Group",
+	"icons": [
+		{
+			"src": "android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "maskable_icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image\/png"
+		}
+	],
+	"start_url": "/",
+	"theme_color": "#282828",
+	"background_color":"#11131B",	
+	"scope":"/",
+	"display": "standalone"
+}
